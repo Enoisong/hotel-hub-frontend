@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a id="live-demo"></a>
 
-Live demo for the website [Coming Soon]().
+[Live Demo](https://hotel-hub-app.onrender.com/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
